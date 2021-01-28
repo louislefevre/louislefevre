@@ -1,5 +1,3 @@
-<img width="300" align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### Louis Lefevre
 - Postgraduate student studying Software Systems Engineering at University College London.
 - Graduated with a first-class in Computer Science from Goldsmiths, University of London.
@@ -25,6 +23,6 @@
 
 ### Stats
 <a href="https://github.com/louislefevre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=gruvbox&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=gruvbox&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=graywhite&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=graywhite&layout=compact" />
 </a>
