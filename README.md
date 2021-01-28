@@ -1,6 +1,8 @@
-### Louis Lefevre
-<img width="250" align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+## Louis Lefevre
+---
+<img width="300" align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+### About
 - Postgraduate student studying Software Systems Engineering at University College London.
 - Graduated with a first-class in Computer Science from Goldsmiths, University of London.
 - Primarily interested in backend software development with Java.
