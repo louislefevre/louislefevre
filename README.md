@@ -26,7 +26,7 @@
 
 ### Stats
 <a href="https://github.com/louislefevre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=nord&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=nord&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=graywhite&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=graywhite&layout=compact" />
 </a>
 <!--- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --->
