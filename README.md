@@ -23,6 +23,6 @@
 
 ### Stats
 <a href="https://github.com/louislefevre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=gruvbox&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=gruvbox&layout=compact" />
 </a>
