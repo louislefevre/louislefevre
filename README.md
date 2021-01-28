@@ -1,5 +1,5 @@
 # Louis Lefevre
-<img width="300" align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img width="300" align="right" alt="GIF" src="pusheencode.gif" />
 
 ### About
 - Postgraduate student studying Software Systems Engineering at University College London.
