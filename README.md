@@ -4,7 +4,7 @@
 ### About
 - Postgraduate student studying Software Systems Engineering at University College London.
 - Graduated with a first-class in Computer Science from Goldsmiths, University of London.
-- Primarily interested in backend software development with Java.
+- Primarily interested in backend software development with Java and Python.
 - Also interested in physical computing with Arduino, compiler design, and data mining.
 
 ### Tech Stack
