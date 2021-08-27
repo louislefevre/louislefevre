@@ -1,15 +1,13 @@
 [![1000x420](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif "Louis Lefevre")](https://github.com/louislefevre)
 
-# Louis Lefevre
 <img width="300" align="right" alt="GIF" src="pusheencode.gif" />
 
-### About
+## About
 - Postgraduate student studying Software Systems Engineering at University College London.
 - Graduated with a first-class in Computer Science from Goldsmiths, University of London.
-- Primarily interested in backend software development with Java and Python.
-- Also interested in physical computing with Arduino, compiler design, and information retrieval.
+- Interested in backend software development, physical computing with Arduino, compiler design, and developing CLI tools.
 
-### Tech Stack
+## Tech Stack
 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -28,7 +26,7 @@
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)  
 
-### Stats
+## Stats
 <a href="https://github.com/louislefevre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=graywhite&layout=compact&langs_count=6&hide=html,css,handlebars" />
