@@ -29,6 +29,6 @@
 ## Stats
 <a href="https://github.com/louislefevre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louislefevre&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=graywhite&layout=compact&langs_count=6&hide=html,css,handlebars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislefevre&theme=graywhite&layout=compact&langs_count=6&hide=html,css,scss,handlebars" />
 </a>
 <!--- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --->
