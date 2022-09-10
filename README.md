@@ -1,17 +1,11 @@
 [![1000x420](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif "Louis Lefevre")](https://github.com/louislefevre)
 
-## About
-- Graduated with a distinction in MSc Software Systems Engineering from University College London.
-- Graduated with a first-class in BSc Computer Science from Goldsmiths, University of London.
-- Interested in backend software development, developing CLI tools, compiler design, and building digital devices with Arduino.
-- Currently learning about Android development and the surrounding ecosystem.
-- Looking to contribute to open source projects.
-
 ## Tech Stack
 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=blue)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
 🌐 &nbsp;
